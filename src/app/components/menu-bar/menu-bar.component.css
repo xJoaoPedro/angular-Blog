@@ -1,0 +1,8 @@
+.container_menu_bar > ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.container_menu_bar > ul > li {
+    margin: 0 10px;
+}

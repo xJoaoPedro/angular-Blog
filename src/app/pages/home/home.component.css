@@ -1,0 +1,11 @@
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.container_articles {
+    padding: 20px 80px;
+    display: flex;
+    justify-content: space-evenly;
+}
